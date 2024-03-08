@@ -1,0 +1,13 @@
+[
+xmin 962
+ymin 63
+xmax 1838
+ymax 209
+translatex 953
+][
+font 90
+height 180
+letterspacing 4
+color #ff6600
+y 200
+]ROUND 4

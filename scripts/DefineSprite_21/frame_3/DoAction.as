@@ -1,0 +1,15 @@
+play();
+playGame = false;
+xyTotal = xNum * yNum;
+correctPieces = 0;
+lastAttack = 0;
+press = 0;
+choice1 = 0;
+choice2 = 0;
+swapDelay = 0;
+attack = 0;
+gameStat = 1;
+call("../fluid:init");
+call("rectArrays");
+call("alignPixMasks");
+gotoAndPlay(8);

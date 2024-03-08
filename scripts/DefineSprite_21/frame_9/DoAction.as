@@ -1,0 +1,2 @@
+call("randomize");
+call("posSprites");

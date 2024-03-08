@@ -1,0 +1,18 @@
+[
+xmin 913
+ymin -40
+xmax 2094
+ymax 342
+multiline 1
+readonly 1
+html 1
+useoutlines 1
+font 90
+height 180
+color #ffff6600
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<P ALIGN="LEFT"><FONT FACE="Comic Sans MS" SIZE="9" COLOR="#FF6600"><B><I>ROUND  1</I></B></FONT></P>

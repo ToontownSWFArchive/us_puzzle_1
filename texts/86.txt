@@ -1,0 +1,18 @@
+[
+xmin 1076
+ymin 54
+xmax 1806
+ymax 428
+translatex 1073
+][
+font 19
+height 200
+letterspacing -4
+color #ffffff
+x 97
+y 216
+]NEXT[
+letterspacing -4
+x 1
+y 425
+]ROUND
